@@ -1,1 +1,3 @@
 
+HI there I am Hamidullah
+an experienced React and React Native developer, I bring years of expertise in developing high-quality web and mobile applications. With a strong background in front-end development, I have a deep understanding of the React framework and its ecosystem, as well as a solid grasp of HTML, CSS, and JavaScript. My experience in React and React Native development includes creating complex, interactive user interfaces, building custom components and libraries, and integrating with back-end APIs and databases. I am also well-versed in Redux, React Router, and other key libraries and technologies.
