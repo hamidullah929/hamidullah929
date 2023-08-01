@@ -1,8 +1,8 @@
 
 ### :woman_technologist: About Me :
-I am a Full Stack React Dot net Core <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am a Full Stack  Dot net Core Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building Mobile and Web applications.
+:telescope: I’m working as a Software Engineer and contributing to frontend and backend for Web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
